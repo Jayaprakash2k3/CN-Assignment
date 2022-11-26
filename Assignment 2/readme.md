@@ -11,5 +11,5 @@ Client.java
 <h1>
 Output
 </h1>
-<img src="output.gif">
+[OUTPUT.MP4](/output.mp4)
 <hr>
